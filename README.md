@@ -42,7 +42,8 @@ Project is: _no longer being worked on_.
 ## Related
 Here are some related projects
 
-[Postediting rate calculator](https://github.com/matiassingers/postediting-rate-calculator.git)
+- [Postediting rate calculator](https://github.com/matiassingers/postediting-rate-calculator)
+- [Phrase TMs export](https://github.com/bartlomiejlis/phrase-tms-export)
 
 ## Used By
 This project is used by the following companies:
